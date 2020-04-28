@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chinese.obj-c226ab905876d42e43280eb779df3226.mesh"
+
+[deps]
+
+files=[ "res://.import/chinese.obj-c226ab905876d42e43280eb779df3226.mesh" ]
+
+source_file="res://Food/chinese.obj"
+dest_files=[ "res://.import/chinese.obj-c226ab905876d42e43280eb779df3226.mesh", "res://.import/chinese.obj-c226ab905876d42e43280eb779df3226.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

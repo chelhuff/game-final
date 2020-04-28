@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blockSnowCliff.obj-423ee701fceeaff7304340d010a49463.mesh"
+
+[deps]
+
+files=[ "res://.import/blockSnowCliff.obj-423ee701fceeaff7304340d010a49463.mesh" ]
+
+source_file="res://Blocks/blockSnowCliff.obj"
+dest_files=[ "res://.import/blockSnowCliff.obj-423ee701fceeaff7304340d010a49463.mesh", "res://.import/blockSnowCliff.obj-423ee701fceeaff7304340d010a49463.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

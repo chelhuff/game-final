@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/meatTenderizer.obj-b6cdbce54477dd5fbda18a8c9677196b.mesh"
+
+[deps]
+
+files=[ "res://.import/meatTenderizer.obj-b6cdbce54477dd5fbda18a8c9677196b.mesh" ]
+
+source_file="res://Food/meatTenderizer.obj"
+dest_files=[ "res://.import/meatTenderizer.obj-b6cdbce54477dd5fbda18a8c9677196b.mesh", "res://.import/meatTenderizer.obj-b6cdbce54477dd5fbda18a8c9677196b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

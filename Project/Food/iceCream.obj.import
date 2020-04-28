@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/iceCream.obj-0e2544ea41dde4b558bb9fb493024d67.mesh"
+
+[deps]
+
+files=[ "res://.import/iceCream.obj-0e2544ea41dde4b558bb9fb493024d67.mesh" ]
+
+source_file="res://Food/iceCream.obj"
+dest_files=[ "res://.import/iceCream.obj-0e2544ea41dde4b558bb9fb493024d67.mesh", "res://.import/iceCream.obj-0e2544ea41dde4b558bb9fb493024d67.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

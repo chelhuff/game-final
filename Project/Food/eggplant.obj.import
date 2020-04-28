@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/eggplant.obj-101071af659547e02a13269faf9fb86a.mesh"
+
+[deps]
+
+files=[ "res://.import/eggplant.obj-101071af659547e02a13269faf9fb86a.mesh" ]
+
+source_file="res://Food/eggplant.obj"
+dest_files=[ "res://.import/eggplant.obj-101071af659547e02a13269faf9fb86a.mesh", "res://.import/eggplant.obj-101071af659547e02a13269faf9fb86a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

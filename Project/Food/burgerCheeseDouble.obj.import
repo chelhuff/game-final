@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/burgerCheeseDouble.obj-781e7ed9e6fbda2ad140318ffe5dfb22.mesh"
+
+[deps]
+
+files=[ "res://.import/burgerCheeseDouble.obj-781e7ed9e6fbda2ad140318ffe5dfb22.mesh" ]
+
+source_file="res://Food/burgerCheeseDouble.obj"
+dest_files=[ "res://.import/burgerCheeseDouble.obj-781e7ed9e6fbda2ad140318ffe5dfb22.mesh", "res://.import/burgerCheeseDouble.obj-781e7ed9e6fbda2ad140318ffe5dfb22.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

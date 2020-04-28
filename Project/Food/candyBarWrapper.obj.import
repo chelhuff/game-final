@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/candyBarWrapper.obj-c3b4c2fb97e1a42835c2afd6acec0553.mesh"
+
+[deps]
+
+files=[ "res://.import/candyBarWrapper.obj-c3b4c2fb97e1a42835c2afd6acec0553.mesh" ]
+
+source_file="res://Food/candyBarWrapper.obj"
+dest_files=[ "res://.import/candyBarWrapper.obj-c3b4c2fb97e1a42835c2afd6acec0553.mesh", "res://.import/candyBarWrapper.obj-c3b4c2fb97e1a42835c2afd6acec0553.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

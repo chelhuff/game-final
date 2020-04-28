@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/watermelon.obj-9f5a0657d1491ef048bed0c9f9887632.mesh"
+
+[deps]
+
+files=[ "res://.import/watermelon.obj-9f5a0657d1491ef048bed0c9f9887632.mesh" ]
+
+source_file="res://Food/watermelon.obj"
+dest_files=[ "res://.import/watermelon.obj-9f5a0657d1491ef048bed0c9f9887632.mesh", "res://.import/watermelon.obj-9f5a0657d1491ef048bed0c9f9887632.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

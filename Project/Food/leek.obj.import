@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/leek.obj-ad14cb2c0b5f2b7de1be6bee5d77b516.mesh"
+
+[deps]
+
+files=[ "res://.import/leek.obj-ad14cb2c0b5f2b7de1be6bee5d77b516.mesh" ]
+
+source_file="res://Food/leek.obj"
+dest_files=[ "res://.import/leek.obj-ad14cb2c0b5f2b7de1be6bee5d77b516.mesh", "res://.import/leek.obj-ad14cb2c0b5f2b7de1be6bee5d77b516.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

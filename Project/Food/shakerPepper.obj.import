@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/shakerPepper.obj-09ae96ceca5d536c8e71c107843dd47e.mesh"
+
+[deps]
+
+files=[ "res://.import/shakerPepper.obj-09ae96ceca5d536c8e71c107843dd47e.mesh" ]
+
+source_file="res://Food/shakerPepper.obj"
+dest_files=[ "res://.import/shakerPepper.obj-09ae96ceca5d536c8e71c107843dd47e.mesh", "res://.import/shakerPepper.obj-09ae96ceca5d536c8e71c107843dd47e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

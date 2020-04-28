@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/hotDog.obj-3fcb3c2e6360451dc3675fa21910dd09.mesh"
+
+[deps]
+
+files=[ "res://.import/hotDog.obj-3fcb3c2e6360451dc3675fa21910dd09.mesh" ]
+
+source_file="res://Food/hotDog.obj"
+dest_files=[ "res://.import/hotDog.obj-3fcb3c2e6360451dc3675fa21910dd09.mesh", "res://.import/hotDog.obj-3fcb3c2e6360451dc3675fa21910dd09.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

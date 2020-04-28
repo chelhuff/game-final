@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cookingSpatula.obj-850478d82bbbec02df483710b7154593.mesh"
+
+[deps]
+
+files=[ "res://.import/cookingSpatula.obj-850478d82bbbec02df483710b7154593.mesh" ]
+
+source_file="res://Food/cookingSpatula.obj"
+dest_files=[ "res://.import/cookingSpatula.obj-850478d82bbbec02df483710b7154593.mesh", "res://.import/cookingSpatula.obj-850478d82bbbec02df483710b7154593.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

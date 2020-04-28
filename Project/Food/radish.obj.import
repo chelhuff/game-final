@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/radish.obj-7582b5e49977b4c37a75ee24bbf86513.mesh"
+
+[deps]
+
+files=[ "res://.import/radish.obj-7582b5e49977b4c37a75ee24bbf86513.mesh" ]
+
+source_file="res://Food/radish.obj"
+dest_files=[ "res://.import/radish.obj-7582b5e49977b4c37a75ee24bbf86513.mesh", "res://.import/radish.obj-7582b5e49977b4c37a75ee24bbf86513.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

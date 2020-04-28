@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bread.obj-40f3aeaee7955d2ea31b16302e84c781.mesh"
+
+[deps]
+
+files=[ "res://.import/bread.obj-40f3aeaee7955d2ea31b16302e84c781.mesh" ]
+
+source_file="res://Food/bread.obj"
+dest_files=[ "res://.import/bread.obj-40f3aeaee7955d2ea31b16302e84c781.mesh", "res://.import/bread.obj-40f3aeaee7955d2ea31b16302e84c781.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

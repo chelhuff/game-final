@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mincemeatPie.obj-6ea0d30f9a3af68e94565a1929f5249e.mesh"
+
+[deps]
+
+files=[ "res://.import/mincemeatPie.obj-6ea0d30f9a3af68e94565a1929f5249e.mesh" ]
+
+source_file="res://Food/mincemeatPie.obj"
+dest_files=[ "res://.import/mincemeatPie.obj-6ea0d30f9a3af68e94565a1929f5249e.mesh", "res://.import/mincemeatPie.obj-6ea0d30f9a3af68e94565a1929f5249e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

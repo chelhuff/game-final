@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/orange.obj-c8eb0cd0d43e526a60278526a5023c89.mesh"
+
+[deps]
+
+files=[ "res://.import/orange.obj-c8eb0cd0d43e526a60278526a5023c89.mesh" ]
+
+source_file="res://Food/orange.obj"
+dest_files=[ "res://.import/orange.obj-c8eb0cd0d43e526a60278526a5023c89.mesh", "res://.import/orange.obj-c8eb0cd0d43e526a60278526a5023c89.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

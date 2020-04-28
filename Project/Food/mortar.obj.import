@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mortar.obj-b877876083c3317c5a322d48b83330a7.mesh"
+
+[deps]
+
+files=[ "res://.import/mortar.obj-b877876083c3317c5a322d48b83330a7.mesh" ]
+
+source_file="res://Food/mortar.obj"
+dest_files=[ "res://.import/mortar.obj-b877876083c3317c5a322d48b83330a7.mesh", "res://.import/mortar.obj-b877876083c3317c5a322d48b83330a7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

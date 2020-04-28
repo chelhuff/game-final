@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chocolateWrapper.obj-b248453ddac29176a79c6c60915584ad.mesh"
+
+[deps]
+
+files=[ "res://.import/chocolateWrapper.obj-b248453ddac29176a79c6c60915584ad.mesh" ]
+
+source_file="res://Food/chocolateWrapper.obj"
+dest_files=[ "res://.import/chocolateWrapper.obj-b248453ddac29176a79c6c60915584ad.mesh", "res://.import/chocolateWrapper.obj-b248453ddac29176a79c6c60915584ad.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

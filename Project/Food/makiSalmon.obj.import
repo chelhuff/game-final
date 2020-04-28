@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/makiSalmon.obj-cb955ce78f4d6d70cdca76d7d64cbcca.mesh"
+
+[deps]
+
+files=[ "res://.import/makiSalmon.obj-cb955ce78f4d6d70cdca76d7d64cbcca.mesh" ]
+
+source_file="res://Food/makiSalmon.obj"
+dest_files=[ "res://.import/makiSalmon.obj-cb955ce78f4d6d70cdca76d7d64cbcca.mesh", "res://.import/makiSalmon.obj-cb955ce78f4d6d70cdca76d7d64cbcca.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bacon.obj-3ea8e2888c12b8953a296f407b8f7980.mesh"
+
+[deps]
+
+files=[ "res://.import/bacon.obj-3ea8e2888c12b8953a296f407b8f7980.mesh" ]
+
+source_file="res://Food/bacon.obj"
+dest_files=[ "res://.import/bacon.obj-3ea8e2888c12b8953a296f407b8f7980.mesh", "res://.import/bacon.obj-3ea8e2888c12b8953a296f407b8f7980.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

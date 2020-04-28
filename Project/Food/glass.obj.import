@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/glass.obj-e048aff93feebb837caa99a9f65acc27.mesh"
+
+[deps]
+
+files=[ "res://.import/glass.obj-e048aff93feebb837caa99a9f65acc27.mesh" ]
+
+source_file="res://Food/glass.obj"
+dest_files=[ "res://.import/glass.obj-e048aff93feebb837caa99a9f65acc27.mesh", "res://.import/glass.obj-e048aff93feebb837caa99a9f65acc27.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

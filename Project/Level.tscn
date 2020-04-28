@@ -1,0 +1,238 @@
+[gd_scene load_steps=17 format=2]
+
+[ext_resource path="res://Blocks/block.obj" type="ArrayMesh" id=1]
+[ext_resource path="res://Character.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Character.gd" type="Script" id=3]
+[ext_resource path="res://Blocks/blockSlope.obj" type="ArrayMesh" id=4]
+[ext_resource path="res://Food/burgerDouble.obj" type="ArrayMesh" id=5]
+[ext_resource path="res://collect_food.gd" type="Script" id=6]
+[ext_resource path="res://burger.png" type="Texture" id=7]
+[ext_resource path="res://Fonts/sweet purple.otf" type="DynamicFontData" id=8]
+[ext_resource path="res://Scripts/Counter.gd" type="Script" id=9]
+[ext_resource path="res://Audio/drop_003.ogg" type="AudioStream" id=10]
+[ext_resource path="res://Audio/woof.wav" type="AudioStream" id=11]
+
+[sub_resource type="BoxShape" id=1]
+extents = Vector3( 6.95749, 0.18825, 5.24585 )
+
+[sub_resource type="CubeMesh" id=2]
+
+[sub_resource type="Environment" id=3]
+background_mode = 1
+background_color = Color( 0.960784, 0.737255, 0.67451, 1 )
+background_energy = 16.0
+ambient_light_color = Color( 0.878431, 0.882353, 0.835294, 1 )
+ambient_light_energy = 0.84
+dof_blur_far_enabled = true
+dof_blur_far_distance = 8.66
+dof_blur_far_transition = 13.09
+dof_blur_far_amount = 0.06
+glow_enabled = true
+glow_levels/3 = false
+glow_intensity = 0.76
+
+[sub_resource type="BoxShape" id=4]
+extents = Vector3( 0.511272, 1.00682, 0.507875 )
+
+[sub_resource type="DynamicFont" id=5]
+size = 30
+outline_color = Color( 0.933333, 0.886275, 0.831373, 1 )
+font_data = ExtResource( 8 )
+
+[node name="Level" type="Spatial"]
+
+[node name="Floor" type="StaticBody" parent="."]
+transform = Transform( 3.54945, 0, 0, 0, 1, 0, 0, 0, 2.4612, 0, -0.0450363, 0 )
+
+[node name="CollisionShape" type="CollisionShape" parent="Floor"]
+shape = SubResource( 1 )
+
+[node name="MeshInstance" type="MeshInstance" parent="Floor"]
+transform = Transform( 7.01834, 0, 0, 0, 0.0653042, 0, 0, 0, 5.18129, 0, 0, 0 )
+mesh = SubResource( 2 )
+material/0 = null
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource( 3 )
+
+[node name="Character" parent="." instance=ExtResource( 2 )]
+transform = Transform( -0.249315, 0, -0.018488, 0, 0.25, 0, 0.018488, 0, -0.249315, -2.06888, 0.0263003, 1.37251 )
+script = ExtResource( 3 )
+
+[node name="Basic Block" type="StaticBody" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 2.47893, -0.027352, 0, 1.91753 )
+
+[node name="MeshInstance" type="MeshInstance" parent="Basic Block"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -1.26568 )
+mesh = ExtResource( 1 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+
+[node name="CollisionShape" type="CollisionShape" parent="Basic Block"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.50542, 0, -1.74961 )
+shape = SubResource( 4 )
+
+[node name="Basic Block 2" type="StaticBody" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 2.47893, 0.798832, 0, 1.91753 )
+
+[node name="MeshInstance" type="MeshInstance" parent="Basic Block 2"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -1.26568 )
+mesh = ExtResource( 1 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+
+[node name="CollisionShape" type="CollisionShape" parent="Basic Block 2"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.50542, 0, -1.74961 )
+shape = SubResource( 4 )
+
+[node name="Basic Block 3" type="StaticBody" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 2.47893, -1.00256, 0, 1.91753 )
+
+[node name="MeshInstance" type="MeshInstance" parent="Basic Block 3"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -1.26568 )
+mesh = ExtResource( 1 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+
+[node name="CollisionShape" type="CollisionShape" parent="Basic Block 3"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.50542, 0, -1.74961 )
+shape = SubResource( 4 )
+
+[node name="Cliff Block 1" type="StaticBody" parent="."]
+transform = Transform( -1.62921e-07, 0, 1, 0, 1, 0, -2.47893, 0, -4.0387e-07, 0.279424, 0, -4.51066 )
+
+[node name="MeshInstance" type="MeshInstance" parent="Cliff Block 1"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.32985, 0, -1.26568 )
+mesh = ExtResource( 4 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+
+[node name="CollisionPolygon" type="CollisionPolygon" parent="Cliff Block 1"]
+transform = Transform( -6.40687e-08, 0, -0.175475, 0, 0.296714, 0, 0.393251, 0, -2.85884e-08, -0.851382, 0.0972608, -2.28643 )
+depth = 6.0
+polygon = PoolVector2Array( 2.51471, 3.10357, 0, 0, 2, 0 )
+
+[node name="Control" type="Control" parent="."]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -1024.0
+margin_bottom = 104.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Sprite" type="Sprite" parent="Control"]
+position = Vector2( 925.5, 38 )
+scale = Vector2( 0.281915, 0.26257 )
+texture = ExtResource( 7 )
+
+[node name="Label" type="Label" parent="Control"]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -78.0
+margin_top = 14.0
+margin_right = -64.0
+margin_bottom = 52.0
+custom_fonts/font = SubResource( 5 )
+custom_colors/font_color = Color( 0.933333, 0.886275, 0.831373, 1 )
+text = "x"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Counter" type="Label" parent="Control"]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -62.0
+margin_top = 17.0
+margin_right = -19.0
+margin_bottom = 53.0
+custom_fonts/font = SubResource( 5 )
+custom_colors/font_color = Color( 0.933333, 0.886275, 0.831373, 1 )
+text = "10"
+script = ExtResource( 9 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Burger Bin" type="Spatial" parent="."]
+
+[node name="Burger" type="Area" parent="Burger Bin"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.76839, 0, 1.87364 )
+script = ExtResource( 6 )
+
+[node name="MeshInstance" type="MeshInstance" parent="Burger Bin/Burger"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0247338, 0, 0.0121937 )
+mesh = ExtResource( 5 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+
+[node name="CollisionShape" type="CollisionShape" parent="Burger Bin/Burger"]
+transform = Transform( 0.447882, 0, 0, 0, 0.197629, 0, 0, 0, 0.506007, 0.00499511, 0.233058, 0.00546375 )
+shape = SubResource( 4 )
+
+[node name="Timer" type="Timer" parent="Burger Bin/Burger"]
+wait_time = 0.2
+
+[node name="Collect" type="AudioStreamPlayer3D" parent="Burger Bin/Burger"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0532708, 0, -0.0194739 )
+stream = ExtResource( 10 )
+
+[node name="Woof" type="AudioStreamPlayer3D" parent="Burger Bin/Burger"]
+stream = ExtResource( 11 )
+
+[node name="Burger2" type="Area" parent="Burger Bin"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.585911, 0, 4.45719 )
+script = ExtResource( 6 )
+
+[node name="MeshInstance" type="MeshInstance" parent="Burger Bin/Burger2"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0247338, 0, 0.0121937 )
+mesh = ExtResource( 5 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+
+[node name="CollisionShape" type="CollisionShape" parent="Burger Bin/Burger2"]
+transform = Transform( 0.447882, 0, 0, 0, 0.197629, 0, 0, 0, 0.506007, 0.00499511, 0.233058, 0.00546375 )
+shape = SubResource( 4 )
+
+[node name="Timer" type="Timer" parent="Burger Bin/Burger2"]
+wait_time = 0.2
+
+[node name="Collect" type="AudioStreamPlayer3D" parent="Burger Bin/Burger2"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.160149, 0, 0.0533681 )
+stream = ExtResource( 10 )
+
+[node name="Woof" type="AudioStreamPlayer3D" parent="Burger Bin/Burger2"]
+stream = ExtResource( 11 )
+[connection signal="body_entered" from="Burger Bin/Burger" to="Burger Bin/Burger" method="_on_Burger_body_entered"]
+[connection signal="foodConsumed" from="Burger Bin/Burger" to="Control/Counter" method="_on_Burger_foodConsumed"]
+[connection signal="timeout" from="Burger Bin/Burger/Timer" to="Burger Bin/Burger" method="_on_Timer_timeout"]
+[connection signal="body_entered" from="Burger Bin/Burger2" to="Burger Bin/Burger2" method="_on_Burger_body_entered"]
+[connection signal="foodConsumed" from="Burger Bin/Burger2" to="Control/Counter" method="_on_Burger_foodConsumed"]
+[connection signal="timeout" from="Burger Bin/Burger2/Timer" to="Burger Bin/Burger2" method="_on_Timer_timeout"]

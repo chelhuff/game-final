@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cookingSpoon.obj-4c3ad7ff3867c17017f0a795e302cda5.mesh"
+
+[deps]
+
+files=[ "res://.import/cookingSpoon.obj-4c3ad7ff3867c17017f0a795e302cda5.mesh" ]
+
+source_file="res://Food/cookingSpoon.obj"
+dest_files=[ "res://.import/cookingSpoon.obj-4c3ad7ff3867c17017f0a795e302cda5.mesh", "res://.import/cookingSpoon.obj-4c3ad7ff3867c17017f0a795e302cda5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

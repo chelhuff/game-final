@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lemonHalf.obj-c293d4db8491381645740978e8ac00ab.mesh"
+
+[deps]
+
+files=[ "res://.import/lemonHalf.obj-c293d4db8491381645740978e8ac00ab.mesh" ]
+
+source_file="res://Food/lemonHalf.obj"
+dest_files=[ "res://.import/lemonHalf.obj-c293d4db8491381645740978e8ac00ab.mesh", "res://.import/lemonHalf.obj-c293d4db8491381645740978e8ac00ab.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

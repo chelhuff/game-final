@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blockSlope.obj-c93412b68ba6b930d43a2e283e7be618.mesh"
+
+[deps]
+
+files=[ "res://.import/blockSlope.obj-c93412b68ba6b930d43a2e283e7be618.mesh" ]
+
+source_file="res://Blocks/blockSlope.obj"
+dest_files=[ "res://.import/blockSlope.obj-c93412b68ba6b930d43a2e283e7be618.mesh", "res://.import/blockSlope.obj-c93412b68ba6b930d43a2e283e7be618.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chopstick.obj-87aa91c0ba448fea4d69a66290e0f180.mesh"
+
+[deps]
+
+files=[ "res://.import/chopstick.obj-87aa91c0ba448fea4d69a66290e0f180.mesh" ]
+
+source_file="res://Food/chopstick.obj"
+dest_files=[ "res://.import/chopstick.obj-87aa91c0ba448fea4d69a66290e0f180.mesh", "res://.import/chopstick.obj-87aa91c0ba448fea4d69a66290e0f180.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

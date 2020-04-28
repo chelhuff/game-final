@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pudding.obj-9812274d2171b5c116c75639d5eb2e41.mesh"
+
+[deps]
+
+files=[ "res://.import/pudding.obj-9812274d2171b5c116c75639d5eb2e41.mesh" ]
+
+source_file="res://Food/pudding.obj"
+dest_files=[ "res://.import/pudding.obj-9812274d2171b5c116c75639d5eb2e41.mesh", "res://.import/pudding.obj-9812274d2171b5c116c75639d5eb2e41.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

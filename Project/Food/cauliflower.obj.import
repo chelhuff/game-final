@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cauliflower.obj-e4aa543f8f153edd4a241f07fd046916.mesh"
+
+[deps]
+
+files=[ "res://.import/cauliflower.obj-e4aa543f8f153edd4a241f07fd046916.mesh" ]
+
+source_file="res://Food/cauliflower.obj"
+dest_files=[ "res://.import/cauliflower.obj-e4aa543f8f153edd4a241f07fd046916.mesh", "res://.import/cauliflower.obj-e4aa543f8f153edd4a241f07fd046916.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

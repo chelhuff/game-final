@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/strawberry.obj-2a7d7e4b457924235d5d20b6c78714e2.mesh"
+
+[deps]
+
+files=[ "res://.import/strawberry.obj-2a7d7e4b457924235d5d20b6c78714e2.mesh" ]
+
+source_file="res://Food/strawberry.obj"
+dest_files=[ "res://.import/strawberry.obj-2a7d7e4b457924235d5d20b6c78714e2.mesh", "res://.import/strawberry.obj-2a7d7e4b457924235d5d20b6c78714e2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

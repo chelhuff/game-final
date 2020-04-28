@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fishBones.obj-3dc7def6e61e615a6656f0d75bc9460b.mesh"
+
+[deps]
+
+files=[ "res://.import/fishBones.obj-3dc7def6e61e615a6656f0d75bc9460b.mesh" ]
+
+source_file="res://Food/fishBones.obj"
+dest_files=[ "res://.import/fishBones.obj-3dc7def6e61e615a6656f0d75bc9460b.mesh", "res://.import/fishBones.obj-3dc7def6e61e615a6656f0d75bc9460b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crateStrong.obj-8c4a7a868a311c54e4e559ef9406f018.mesh"
+
+[deps]
+
+files=[ "res://.import/crateStrong.obj-8c4a7a868a311c54e4e559ef9406f018.mesh" ]
+
+source_file="res://Blocks/crateStrong.obj"
+dest_files=[ "res://.import/crateStrong.obj-8c4a7a868a311c54e4e559ef9406f018.mesh", "res://.import/crateStrong.obj-8c4a7a868a311c54e4e559ef9406f018.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

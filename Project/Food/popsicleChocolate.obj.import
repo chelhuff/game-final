@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/popsicleChocolate.obj-32f76a4e2c0665e6b3e36b71b1675512.mesh"
+
+[deps]
+
+files=[ "res://.import/popsicleChocolate.obj-32f76a4e2c0665e6b3e36b71b1675512.mesh" ]
+
+source_file="res://Food/popsicleChocolate.obj"
+dest_files=[ "res://.import/popsicleChocolate.obj-32f76a4e2c0665e6b3e36b71b1675512.mesh", "res://.import/popsicleChocolate.obj-32f76a4e2c0665e6b3e36b71b1675512.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/meatSausage.obj-3743d5ce572f58d463f8f15a23d4296e.mesh"
+
+[deps]
+
+files=[ "res://.import/meatSausage.obj-3743d5ce572f58d463f8f15a23d4296e.mesh" ]
+
+source_file="res://Food/meatSausage.obj"
+dest_files=[ "res://.import/meatSausage.obj-3743d5ce572f58d463f8f15a23d4296e.mesh", "res://.import/meatSausage.obj-3743d5ce572f58d463f8f15a23d4296e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

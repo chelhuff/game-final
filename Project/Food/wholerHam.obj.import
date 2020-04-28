@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wholerHam.obj-3ea4d39ac58fb1ce82bedd7f09b231de.mesh"
+
+[deps]
+
+files=[ "res://.import/wholerHam.obj-3ea4d39ac58fb1ce82bedd7f09b231de.mesh" ]
+
+source_file="res://Food/wholerHam.obj"
+dest_files=[ "res://.import/wholerHam.obj-3ea4d39ac58fb1ce82bedd7f09b231de.mesh", "res://.import/wholerHam.obj-3ea4d39ac58fb1ce82bedd7f09b231de.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

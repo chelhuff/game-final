@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sushiEgg.obj-17913eeaccc1f331bad9dfd8dca149bd.mesh"
+
+[deps]
+
+files=[ "res://.import/sushiEgg.obj-17913eeaccc1f331bad9dfd8dca149bd.mesh" ]
+
+source_file="res://Food/sushiEgg.obj"
+dest_files=[ "res://.import/sushiEgg.obj-17913eeaccc1f331bad9dfd8dca149bd.mesh", "res://.import/sushiEgg.obj-17913eeaccc1f331bad9dfd8dca149bd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

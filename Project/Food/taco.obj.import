@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/taco.obj-2936f90533f46cd0c9a879c2bbce47dd.mesh"
+
+[deps]
+
+files=[ "res://.import/taco.obj-2936f90533f46cd0c9a879c2bbce47dd.mesh" ]
+
+source_file="res://Food/taco.obj"
+dest_files=[ "res://.import/taco.obj-2936f90533f46cd0c9a879c2bbce47dd.mesh", "res://.import/taco.obj-2936f90533f46cd0c9a879c2bbce47dd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pan.obj-43434ec0ff62e387538af2aba376419d.mesh"
+
+[deps]
+
+files=[ "res://.import/pan.obj-43434ec0ff62e387538af2aba376419d.mesh" ]
+
+source_file="res://Food/pan.obj"
+dest_files=[ "res://.import/pan.obj-43434ec0ff62e387538af2aba376419d.mesh", "res://.import/pan.obj-43434ec0ff62e387538af2aba376419d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cakeBirthday.obj-7ad9a345cf675828ef66852088b9024e.mesh"
+
+[deps]
+
+files=[ "res://.import/cakeBirthday.obj-7ad9a345cf675828ef66852088b9024e.mesh" ]
+
+source_file="res://Food/cakeBirthday.obj"
+dest_files=[ "res://.import/cakeBirthday.obj-7ad9a345cf675828ef66852088b9024e.mesh", "res://.import/cakeBirthday.obj-7ad9a345cf675828ef66852088b9024e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

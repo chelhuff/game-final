@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gingerBread.obj-03b10c63a46da0fad87d1bf522c0b642.mesh"
+
+[deps]
+
+files=[ "res://.import/gingerBread.obj-03b10c63a46da0fad87d1bf522c0b642.mesh" ]
+
+source_file="res://Food/gingerBread.obj"
+dest_files=[ "res://.import/gingerBread.obj-03b10c63a46da0fad87d1bf522c0b642.mesh", "res://.import/gingerBread.obj-03b10c63a46da0fad87d1bf522c0b642.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

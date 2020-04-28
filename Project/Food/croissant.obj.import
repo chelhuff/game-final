@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/croissant.obj-e4f53bd26adedaa41719b70d1b82e381.mesh"
+
+[deps]
+
+files=[ "res://.import/croissant.obj-e4f53bd26adedaa41719b70d1b82e381.mesh" ]
+
+source_file="res://Food/croissant.obj"
+dest_files=[ "res://.import/croissant.obj-e4f53bd26adedaa41719b70d1b82e381.mesh", "res://.import/croissant.obj-e4f53bd26adedaa41719b70d1b82e381.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

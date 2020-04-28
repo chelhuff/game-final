@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/whippedCream.obj-17cad4a5b186eef79550fe5c90d0c946.mesh"
+
+[deps]
+
+files=[ "res://.import/whippedCream.obj-17cad4a5b186eef79550fe5c90d0c946.mesh" ]
+
+source_file="res://Food/whippedCream.obj"
+dest_files=[ "res://.import/whippedCream.obj-17cad4a5b186eef79550fe5c90d0c946.mesh", "res://.import/whippedCream.obj-17cad4a5b186eef79550fe5c90d0c946.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

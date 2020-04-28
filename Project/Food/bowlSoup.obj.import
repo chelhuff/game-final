@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bowlSoup.obj-71c2d1a955f44d6669e754acc615b282.mesh"
+
+[deps]
+
+files=[ "res://.import/bowlSoup.obj-71c2d1a955f44d6669e754acc615b282.mesh" ]
+
+source_file="res://Food/bowlSoup.obj"
+dest_files=[ "res://.import/bowlSoup.obj-71c2d1a955f44d6669e754acc615b282.mesh", "res://.import/bowlSoup.obj-71c2d1a955f44d6669e754acc615b282.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

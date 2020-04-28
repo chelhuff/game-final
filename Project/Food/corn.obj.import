@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/corn.obj-2c70f3d32aabd80075be27f61484db27.mesh"
+
+[deps]
+
+files=[ "res://.import/corn.obj-2c70f3d32aabd80075be27f61484db27.mesh" ]
+
+source_file="res://Food/corn.obj"
+dest_files=[ "res://.import/corn.obj-2c70f3d32aabd80075be27f61484db27.mesh", "res://.import/corn.obj-2c70f3d32aabd80075be27f61484db27.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

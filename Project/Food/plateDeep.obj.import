@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/plateDeep.obj-dafba35e4a3380f944c8aacc717e16c0.mesh"
+
+[deps]
+
+files=[ "res://.import/plateDeep.obj-dafba35e4a3380f944c8aacc717e16c0.mesh" ]
+
+source_file="res://Food/plateDeep.obj"
+dest_files=[ "res://.import/plateDeep.obj-dafba35e4a3380f944c8aacc717e16c0.mesh", "res://.import/plateDeep.obj-dafba35e4a3380f944c8aacc717e16c0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

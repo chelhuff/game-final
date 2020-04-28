@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mushroom.obj-e62bede8c9d5ea78bf3c362a490435c4.mesh"
+
+[deps]
+
+files=[ "res://.import/mushroom.obj-e62bede8c9d5ea78bf3c362a490435c4.mesh" ]
+
+source_file="res://Food/mushroom.obj"
+dest_files=[ "res://.import/mushroom.obj-e62bede8c9d5ea78bf3c362a490435c4.mesh", "res://.import/mushroom.obj-e62bede8c9d5ea78bf3c362a490435c4.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

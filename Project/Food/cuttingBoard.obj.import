@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cuttingBoard.obj-cf68e405f500e0ae6b5dc0f9b77d5a0e.mesh"
+
+[deps]
+
+files=[ "res://.import/cuttingBoard.obj-cf68e405f500e0ae6b5dc0f9b77d5a0e.mesh" ]
+
+source_file="res://Food/cuttingBoard.obj"
+dest_files=[ "res://.import/cuttingBoard.obj-cf68e405f500e0ae6b5dc0f9b77d5a0e.mesh", "res://.import/cuttingBoard.obj-cf68e405f500e0ae6b5dc0f9b77d5a0e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

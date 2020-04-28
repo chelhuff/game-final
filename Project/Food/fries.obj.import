@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fries.obj-977761e9ce58e8b022580950db1123bc.mesh"
+
+[deps]
+
+files=[ "res://.import/fries.obj-977761e9ce58e8b022580950db1123bc.mesh" ]
+
+source_file="res://Food/fries.obj"
+dest_files=[ "res://.import/fries.obj-977761e9ce58e8b022580950db1123bc.mesh", "res://.import/fries.obj-977761e9ce58e8b022580950db1123bc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

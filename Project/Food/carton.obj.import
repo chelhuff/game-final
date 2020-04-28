@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/carton.obj-72d0cced39b0b031b5ea75d487c85205.mesh"
+
+[deps]
+
+files=[ "res://.import/carton.obj-72d0cced39b0b031b5ea75d487c85205.mesh" ]
+
+source_file="res://Food/carton.obj"
+dest_files=[ "res://.import/carton.obj-72d0cced39b0b031b5ea75d487c85205.mesh", "res://.import/carton.obj-72d0cced39b0b031b5ea75d487c85205.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

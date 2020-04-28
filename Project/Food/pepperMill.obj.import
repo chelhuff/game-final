@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pepperMill.obj-49dac1e7cc16ff82ebe6fc07b4bb0526.mesh"
+
+[deps]
+
+files=[ "res://.import/pepperMill.obj-49dac1e7cc16ff82ebe6fc07b4bb0526.mesh" ]
+
+source_file="res://Food/pepperMill.obj"
+dest_files=[ "res://.import/pepperMill.obj-49dac1e7cc16ff82ebe6fc07b4bb0526.mesh", "res://.import/pepperMill.obj-49dac1e7cc16ff82ebe6fc07b4bb0526.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cheeseSlicer.obj-bf381ff1fa7d9eb3a2eb23e4bc8b7cf6.mesh"
+
+[deps]
+
+files=[ "res://.import/cheeseSlicer.obj-bf381ff1fa7d9eb3a2eb23e4bc8b7cf6.mesh" ]
+
+source_file="res://Food/cheeseSlicer.obj"
+dest_files=[ "res://.import/cheeseSlicer.obj-bf381ff1fa7d9eb3a2eb23e4bc8b7cf6.mesh", "res://.import/cheeseSlicer.obj-bf381ff1fa7d9eb3a2eb23e4bc8b7cf6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
