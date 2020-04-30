@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree_pineTallD.obj-b3ab03ae498b32766f4c1b9528f03384.mesh"
+
+[deps]
+
+files=[ "res://.import/tree_pineTallD.obj-b3ab03ae498b32766f4c1b9528f03384.mesh" ]
+
+source_file="res://Nature/tree_pineTallD.obj"
+dest_files=[ "res://.import/tree_pineTallD.obj-b3ab03ae498b32766f4c1b9528f03384.mesh", "res://.import/tree_pineTallD.obj-b3ab03ae498b32766f4c1b9528f03384.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

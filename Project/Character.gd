@@ -4,6 +4,7 @@ var gravity = -9.8
 var velocity = Vector3()
 var camera
 var character
+var anim_player
 
 const SPEED = 6
 const ACCERLERATION = 3
@@ -22,6 +23,7 @@ func _ready():
 
 func _physics_process(delta):
 	camera = get_node("Camera").get_global_transform()
+	anim_player = get_node("Armature/AnimationPlayer")
 	var dir = Vector3()
 	var is_moving = false
 	
@@ -58,7 +60,7 @@ func _physics_process(delta):
 	velocity.z = hv.z
 	
 	if(Input.is_action_pressed("jump") and is_on_floor()):
-		velocity.y = 4
+		velocity.y = 5
 	
 	velocity = move_and_slide(velocity, Vector3(0,1,0))
 	
@@ -68,8 +70,17 @@ func _physics_process(delta):
 		var char_rot = character.get_rotation()
 		char_rot.y = angle
 		character.set_rotation(char_rot)
+		
+	var anim_to_play = "idle-loop"
+	if is_moving:
+		anim_to_play = "walk-cycle"
+		#anim_to_play = "idle-loop"
+	
+	var current_anim = anim_player.get_current_animation()
+	if current_anim != anim_to_play:
+		anim_player.play(anim_to_play)
+	
 	
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
 #	pass
-

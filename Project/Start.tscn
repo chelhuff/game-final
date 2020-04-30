@@ -24,7 +24,9 @@ custom_colors/font_color = Color( 0.933333, 0.886275, 0.831373, 1 )
 text = "{ puppy dreams }"
 align = 1
 valign = 1
-percent_visible = -0.0769231
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="ColorRect" type="ColorRect" parent="."]
 show_behind_parent = true
@@ -33,13 +35,20 @@ margin_bottom = 598.0
 color = Color( 0.960784, 0.737255, 0.67451, 1 )
 
 [node name="button-title-play" type="Button" parent="."]
-margin_left = 384.0
-margin_top = 355.0
-margin_right = 654.0
-margin_bottom = 426.0
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -135.0
+margin_top = -35.5
+margin_right = 135.0
+margin_bottom = 35.5
 custom_fonts/font = SubResource( 1 )
 custom_colors/font_color = Color( 0.933333, 0.886275, 0.831373, 1 )
 text = "~ play ~"
 flat = true
 script = ExtResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
 [connection signal="pressed" from="button-title-play" to="button-title-play" method="_on_buttontitleplay_pressed"]

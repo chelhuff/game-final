@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flower_yellowC.obj-3a76848716d0cbc142972b245ba3698d.mesh"
+
+[deps]
+
+files=[ "res://.import/flower_yellowC.obj-3a76848716d0cbc142972b245ba3698d.mesh" ]
+
+source_file="res://Nature/flower_yellowC.obj"
+dest_files=[ "res://.import/flower_yellowC.obj-3a76848716d0cbc142972b245ba3698d.mesh", "res://.import/flower_yellowC.obj-3a76848716d0cbc142972b245ba3698d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

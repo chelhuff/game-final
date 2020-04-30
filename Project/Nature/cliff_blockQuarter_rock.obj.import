@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cliff_blockQuarter_rock.obj-354166381a8c491d88d45b15b30b88df.mesh"
+
+[deps]
+
+files=[ "res://.import/cliff_blockQuarter_rock.obj-354166381a8c491d88d45b15b30b88df.mesh" ]
+
+source_file="res://Nature/cliff_blockQuarter_rock.obj"
+dest_files=[ "res://.import/cliff_blockQuarter_rock.obj-354166381a8c491d88d45b15b30b88df.mesh", "res://.import/cliff_blockQuarter_rock.obj-354166381a8c491d88d45b15b30b88df.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

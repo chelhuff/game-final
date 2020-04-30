@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/path_stoneCircle.obj-9e4cbb4e32fdeea294aad867943ab60e.mesh"
+
+[deps]
+
+files=[ "res://.import/path_stoneCircle.obj-9e4cbb4e32fdeea294aad867943ab60e.mesh" ]
+
+source_file="res://Nature/path_stoneCircle.obj"
+dest_files=[ "res://.import/path_stoneCircle.obj-9e4cbb4e32fdeea294aad867943ab60e.mesh", "res://.import/path_stoneCircle.obj-9e4cbb4e32fdeea294aad867943ab60e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stump_squareDetailedWide.obj-56753c71f9730fd8fbce1cb2755ad31f.mesh"
+
+[deps]
+
+files=[ "res://.import/stump_squareDetailedWide.obj-56753c71f9730fd8fbce1cb2755ad31f.mesh" ]
+
+source_file="res://Nature/stump_squareDetailedWide.obj"
+dest_files=[ "res://.import/stump_squareDetailedWide.obj-56753c71f9730fd8fbce1cb2755ad31f.mesh", "res://.import/stump_squareDetailedWide.obj-56753c71f9730fd8fbce1cb2755ad31f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

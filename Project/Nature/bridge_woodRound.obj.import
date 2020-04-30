@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bridge_woodRound.obj-139d5f1d88e9c54699438310051b10fe.mesh"
+
+[deps]
+
+files=[ "res://.import/bridge_woodRound.obj-139d5f1d88e9c54699438310051b10fe.mesh" ]
+
+source_file="res://Nature/bridge_woodRound.obj"
+dest_files=[ "res://.import/bridge_woodRound.obj-139d5f1d88e9c54699438310051b10fe.mesh", "res://.import/bridge_woodRound.obj-139d5f1d88e9c54699438310051b10fe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

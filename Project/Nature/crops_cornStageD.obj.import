@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crops_cornStageD.obj-0c9625d6120b11e31c628bccb79f85b9.mesh"
+
+[deps]
+
+files=[ "res://.import/crops_cornStageD.obj-0c9625d6120b11e31c628bccb79f85b9.mesh" ]
+
+source_file="res://Nature/crops_cornStageD.obj"
+dest_files=[ "res://.import/crops_cornStageD.obj-0c9625d6120b11e31c628bccb79f85b9.mesh", "res://.import/crops_cornStageD.obj-0c9625d6120b11e31c628bccb79f85b9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/statue_ring.obj-22745c926bfc3c50915a43fdafd856ab.mesh"
+
+[deps]
+
+files=[ "res://.import/statue_ring.obj-22745c926bfc3c50915a43fdafd856ab.mesh" ]
+
+source_file="res://Nature/statue_ring.obj"
+dest_files=[ "res://.import/statue_ring.obj-22745c926bfc3c50915a43fdafd856ab.mesh", "res://.import/statue_ring.obj-22745c926bfc3c50915a43fdafd856ab.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

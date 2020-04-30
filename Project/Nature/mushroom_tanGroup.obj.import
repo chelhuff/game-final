@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mushroom_tanGroup.obj-a150501c9158283f238ab65c33c7079a.mesh"
+
+[deps]
+
+files=[ "res://.import/mushroom_tanGroup.obj-a150501c9158283f238ab65c33c7079a.mesh" ]
+
+source_file="res://Nature/mushroom_tanGroup.obj"
+dest_files=[ "res://.import/mushroom_tanGroup.obj-a150501c9158283f238ab65c33c7079a.mesh", "res://.import/mushroom_tanGroup.obj-a150501c9158283f238ab65c33c7079a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/campfire_logs.obj-d7a386eae4926e9037e2e3f1d4883ebc.mesh"
+
+[deps]
+
+files=[ "res://.import/campfire_logs.obj-d7a386eae4926e9037e2e3f1d4883ebc.mesh" ]
+
+source_file="res://Nature/campfire_logs.obj"
+dest_files=[ "res://.import/campfire_logs.obj-d7a386eae4926e9037e2e3f1d4883ebc.mesh", "res://.import/campfire_logs.obj-d7a386eae4926e9037e2e3f1d4883ebc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

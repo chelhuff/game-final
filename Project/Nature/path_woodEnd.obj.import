@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/path_woodEnd.obj-4e258cecfb89854a50f36e5242ebc20d.mesh"
+
+[deps]
+
+files=[ "res://.import/path_woodEnd.obj-4e258cecfb89854a50f36e5242ebc20d.mesh" ]
+
+source_file="res://Nature/path_woodEnd.obj"
+dest_files=[ "res://.import/path_woodEnd.obj-4e258cecfb89854a50f36e5242ebc20d.mesh", "res://.import/path_woodEnd.obj-4e258cecfb89854a50f36e5242ebc20d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cliff_halfCorner_rock.obj-b210594d10efb2cdf3a545e36501e429.mesh"
+
+[deps]
+
+files=[ "res://.import/cliff_halfCorner_rock.obj-b210594d10efb2cdf3a545e36501e429.mesh" ]
+
+source_file="res://Nature/cliff_halfCorner_rock.obj"
+dest_files=[ "res://.import/cliff_halfCorner_rock.obj-b210594d10efb2cdf3a545e36501e429.mesh", "res://.import/cliff_halfCorner_rock.obj-b210594d10efb2cdf3a545e36501e429.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

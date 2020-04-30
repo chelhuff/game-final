@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flower_purpleA.obj-4f86490b06d2afd1470ddd02c758ccfc.mesh"
+
+[deps]
+
+files=[ "res://.import/flower_purpleA.obj-4f86490b06d2afd1470ddd02c758ccfc.mesh" ]
+
+source_file="res://Nature/flower_purpleA.obj"
+dest_files=[ "res://.import/flower_purpleA.obj-4f86490b06d2afd1470ddd02c758ccfc.mesh", "res://.import/flower_purpleA.obj-4f86490b06d2afd1470ddd02c758ccfc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

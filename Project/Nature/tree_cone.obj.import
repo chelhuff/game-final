@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree_cone.obj-9c3e8a58baeacc260ee2a096422fc907.mesh"
+
+[deps]
+
+files=[ "res://.import/tree_cone.obj-9c3e8a58baeacc260ee2a096422fc907.mesh" ]
+
+source_file="res://Nature/tree_cone.obj"
+dest_files=[ "res://.import/tree_cone.obj-9c3e8a58baeacc260ee2a096422fc907.mesh", "res://.import/tree_cone.obj-9c3e8a58baeacc260ee2a096422fc907.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

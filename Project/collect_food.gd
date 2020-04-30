@@ -5,7 +5,7 @@ signal foodConsumed
 func _ready():
 	pass
 
-func _physics_process(delta):
+func _physics_process(_delta):
 	rotate_y(deg2rad(3))
 
 

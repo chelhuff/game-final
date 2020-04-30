@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crop_turnip.obj-7ade0914995a5f53f9495a2539df01bf.mesh"
+
+[deps]
+
+files=[ "res://.import/crop_turnip.obj-7ade0914995a5f53f9495a2539df01bf.mesh" ]
+
+source_file="res://Nature/crop_turnip.obj"
+dest_files=[ "res://.import/crop_turnip.obj-7ade0914995a5f53f9495a2539df01bf.mesh", "res://.import/crop_turnip.obj-7ade0914995a5f53f9495a2539df01bf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
